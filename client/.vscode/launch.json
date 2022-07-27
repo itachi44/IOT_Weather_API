@@ -1,0 +1,29 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "breeze",
+            "cwd": "breeze",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "breeze (profile mode)",
+            "cwd": "breeze",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "breeze (release mode)",
+            "cwd": "breeze",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
